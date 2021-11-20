@@ -1,2 +1,2 @@
 # Red-Spot-Restaurant
-I Created this website for practicing purposes, this website is a static website, it was made using Bootstrap, CSS, HTML5, Javascript. It is a fully responsive website, {Mobile Friendly}. 
+Created for practicing purposes, this website is a static web, Languages used are Bootstrap, CSS, HTML5, Javascript.Fully responsive website. 
